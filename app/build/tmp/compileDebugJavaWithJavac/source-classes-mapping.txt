@@ -1,0 +1,8 @@
+com/example/accelerometer_measurements/BuildConfig.java
+ com.example.accelerometer_measurements.BuildConfig
+com/example/accelerometer_measurements/MainActivity.java
+ com.example.accelerometer_measurements.MainActivity
+ com.example.accelerometer_measurements.MainActivity$1
+ com.example.accelerometer_measurements.MainActivity$2
+ com.example.accelerometer_measurements.MainActivity$3
+ com.example.accelerometer_measurements.MainActivity$4
